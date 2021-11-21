@@ -16,10 +16,7 @@
 
 ## Screenshots
 
-<img src="/static/2.png" alt="Screenshot 2" height="300"/>
-<img src="/static/1.png" alt="Screenshot 1" height="300"/>
-<img src="/static/3.png" alt="Screenshot 3" height="300"/>
-<img src="/static/4.png" alt="Screenshot 4" height="300"/>
+<img src="/static/2.png" alt="Screenshot 2" height="300"/> <img src="/static/1.png" alt="Screenshot 1" height="300"/> <img src="/static/3.png" alt="Screenshot 3" height="300"/> <img src="/static/4.png" alt="Screenshot 4" height="300"/>
 
 ## Configuration
 
