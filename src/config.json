@@ -1,0 +1,30 @@
+{
+  "name": "LF Verissimo",
+  "description": "Front-end developer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62751844?v=4",
+  "theme": "dark",
+  "links": [
+    {
+      "text": "My Portfolio",
+      "url": "http://lfverissimo.com"
+    },
+    {
+      "text": "My GitHub repositories",
+      "url": "https://github.com/luizfverissimo?tab=repositories"
+    }
+  ],
+  "social": [
+    {
+      "icon": "faGithub",
+      "url": "https://github.com/luizfverissimo"
+    },
+    {
+      "icon": "faLinkedin",
+      "url": "https://www.linkedin.com/in/lfverissimo/"
+    },
+    {
+      "icon": "faGooglePlay",
+      "url": "https://play.google.com/store/apps/developer?id=LF+Verissimo"
+    }
+  ]
+}

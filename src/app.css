@@ -1,0 +1,10 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {background-image: linear-gradient(to top, #303746 0%, #4e5563 100%);} */
+
+.btn {
+  @apply w-full
+}
