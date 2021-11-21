@@ -7,6 +7,7 @@
     "preview": "svelte-kit preview"
   },
   "devDependencies": {
+    "@sveltejs/adapter-vercel": "next",
     "@sveltejs/kit": "next",
     "autoprefixer": "^10.3.7",
     "cssnano": "^5.0.8",

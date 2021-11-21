@@ -1,10 +1,10 @@
 <script context="module">
-  import config from '../config.json';
+  import userConfig from '../config.json';
 
   export function load() {
     return {
       props: {
-        config
+        config: userConfig
       }
     };
   }
@@ -24,6 +24,32 @@
     isLoading = false;
   });
 </script>
+
+<svelte:head>
+  <title>{config.name} | Bio-Link</title>
+  <meta name="title" content={`${config.name} | Bio-Link`} />
+  <meta name="description" content={`${config.description} | Bio-Link`} />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={config.biolinkUrl} />
+  <meta property="og:title" content={`${config.name} | Bio-Link`} />
+  <meta
+    property="og:description"
+    content={`${config.description} | Bio-Link`}
+  />
+  <meta property="og:image" content="/prev.png" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content={config.biolinkUrl} />
+  <meta property="twitter:title" content={`${config.description} | Bio-Link`} />
+  <meta
+    property="twitter:description"
+    content={`${config.description} | Bio-Link`}
+  />
+  <meta property="twitter:image" content="/prev.png" />
+</svelte:head>
 
 {#if !isLoading}
   <main
@@ -53,7 +79,11 @@
       </ul>
     </section>
     <section>
-      <p class="text-xs opacity-70 mt-6"><a class="link link-accent">Bio-Link</a> – Made with ❤️ by <a href="https://github.com/luizfverissimo" class="link">LF Verissimo</a></p>
+      <p class="text-xs opacity-70 mt-6">
+        <a class="link link-accent">Bio-Link</a> – Made with ❤️ by
+        <a href="https://github.com/luizfverissimo" class="link">LF Verissimo</a
+        >
+      </p>
     </section>
   </main>
 {/if}
