@@ -1,16 +1,36 @@
 {
   "name": "LF Verissimo",
-  "description": "Front-end developer",
+  "description": "Front-end developer and teacher",
   "avatarUrl": "https://avatars.githubusercontent.com/u/62751844?v=4",
   "biolinkUrl": "http://lfverissimo.com",
   "theme": "dark",
   "links": [
     {
-      "text": "My Portfolio",
+      "text": "💼 Portfolio",
       "url": "http://lfverissimo.com"
     },
     {
-      "text": "My GitHub repositories",
+      "text": "🎮💸 GamerOfertas - Promo Spider",
+      "url": "https://t.me/gamerofertas"
+    },
+    {
+      "text": "🍎💸 MacOfertas - PromoSpider",
+      "url": "https://t.me/macofertas"
+    },
+    {
+      "text": "📱💸 Smartphone Ofertas - Promo Spider",
+      "url": "https://t.me/smartphoneOfertas"
+    },
+    {
+      "text": "📖 Desafios toxicológicos",
+      "url": "https://www.sanarsaude.com/livro/desafios-toxicologicos?utm_source=google&utm_medium=shopping&utm_campaign=livros&utm_term=&utm_campaign=%5BSHOPPING%5D%5BTRANSVERSAL%5D+-+%5BTRANSVERSAL%5D+Smart+Shopping+-+Livros&utm_source=adwords&utm_medium=ppc&hsa_acc=5238750109&hsa_cam=12258278309&hsa_grp=118982327482&hsa_ad=496545648446&hsa_src=u&hsa_tgt=pla-301234089116&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiA-eeMBhCpARIsAAZfxZAK8yppBG0EO2pLVuibG2gdb0Y9U3NPlcf7VPW1INkdW-I9ezOaOtIaAr_AEALw_wcB"
+    },
+    {
+      "text": "📖 50 casos clínicos em farmacologia",
+      "url": "https://www.sanarsaude.com/livro/50-casos-clinicos-em-farmacologia?utm_source=google&utm_medium=shopping&utm_campaign=livros&utm_term=&utm_campaign=%5BSHOPPING%5D%5BTRANSVERSAL%5D+-+%5BTRANSVERSAL%5D+Smart+Shopping+-+Livros&utm_source=adwords&utm_medium=ppc&hsa_acc=5238750109&hsa_cam=12258278309&hsa_grp=118982327482&hsa_ad=496545648446&hsa_src=u&hsa_tgt=pla-301234089116&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiA-eeMBhCpARIsAAZfxZAoTtg6IPMAh2ua1iwD3_IMU6JnW_t1YXVIGJzT28Ge2WSQ0rvnMrwaAsCoEALw_wcB"
+    },
+    {
+      "text": "👨🏻‍💻 GitHub Projects",
       "url": "https://github.com/luizfverissimo?tab=repositories"
     }
   ],
