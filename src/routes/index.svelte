@@ -62,12 +62,12 @@
         {config.description}
       </p>
     </section>
-    <section class="w-full flex items-center flex-col mt-12 gap-6">
+    <section class="w-full flex items-center flex-col mt-9 gap-6">
       {#each config.links as { url, text }}
         <a href={url} class="btn btn-primary">{text}</a>
       {/each}
     </section>
-    <section class="w-full flex items-center justify-center mt-12 gap-6">
+    <section class="w-full flex items-center justify-center mt-9 gap-6">
       <ul
         class="menu px-3 shadow-lg bg-base-200 rounded-box horizontal overflow-x-auto"
       >
@@ -80,7 +80,7 @@
     </section>
     <section>
       <p class="text-xs opacity-70 mt-6">
-        <a class="link link-accent">Bio-Link</a> – Made with ❤️ by
+        <a href="https://github.com/luizfverissimo/bio-link" class="link link-accent">Bio-Link</a> – Made with ❤️ by
         <a href="https://github.com/luizfverissimo" class="link">LF Verissimo</a
         >
       </p>
