@@ -12,7 +12,7 @@
 
 > 🔗 A shot landing page for add to you social networks bio. Created with SvelteKit, Tailwind CSS and daisyUI.
 
-### ✨ [Demo](https://lfv-biolink.vercel.app/)
+### ✨ [Demo](https://biolink-demo.vercel.app/)
 
 ## Screenshots
 
