@@ -58,7 +58,7 @@ Edit the `/src/config.json` file to add your data.
 }
 ```
 
-You can switch the themes using the daisyUI avaliable theme, see more [here](https://daisyui.com/docs/default-themes), you can edit your onw theme following the [daisyUI documentation.](https://daisyui.com/docs/add-themes)
+You can switch the themes using the daisyUI avaliable theme, see more [here](https://daisyui.com/docs/default-themes), you can edit your own theme following the [daisyUI documentation.](https://daisyui.com/docs/add-themes)
 
 This project uses [FontAwesome Brand Icons](https://www.npmjs.com/package/@fortawesome/free-brands-svg-icons) for the social icons.
 
